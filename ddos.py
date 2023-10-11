@@ -59,10 +59,6 @@ def buildblock(size):
 		out_str += chr(a)
 	return(out_str)
 
-def usage():
-    print '---------------------'
-    print 'Istifade Qaydaso: python difai.py <url>'
-    print '---------------------'
 
 	
 #http request
