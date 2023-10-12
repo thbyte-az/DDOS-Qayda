@@ -61,9 +61,8 @@ def buildblock(size):
 
 def usage():
     print('---------------------')
-	print('Telegram: AhmadovN1')
     print('Istifade Qaydasi: python3 ddos.py vurulacaqlink')
-    print('---------------------')
+    print('TG: @AhmadovN1')
 
 	
 #http request
@@ -88,7 +87,7 @@ def httpcall(url):
 	except urllib.error.HTTPError as e:
 			#print e.code
 			set_flag(1)
-			print('Sayt Xeta Verir.. Error 500')
+			print('Sayt Vurulur.. TG: AhmadovN1')
 			code=500
 	except urllib.error.URLError as e:
 			#print e.reason
