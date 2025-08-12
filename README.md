@@ -1,5 +1,7 @@
 Salam! Bu Python script vasitəsi ilə sən istədiyin bir linkə DDOS hücum gerçəkləşdirə biləcəksən.
 
+Öz internetinizdə,ip adresinizdə etməyiniz tövsiyyə edilmir, illegal işlər üçün istifadə edilərsə biz məsuliyyət daşımırıq!
+
 İstifadə qaydası:<br>
 sudo apt install git <br>
 git clone https://github.com/thbyte-az/DDOS-Qayda <br>
