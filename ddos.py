@@ -62,7 +62,7 @@ def buildblock(size):
 def usage():
     print('---------------------')
     print('Istifade Qaydasi: python3 ddos.py vurulacaqlink')
-    print('TG: @AhmadovN1')
+    print('TG: @thbyte')
 
 	
 #http request
